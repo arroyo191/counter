@@ -1,0 +1,14 @@
+header {
+    font-size: 3em;
+}
+
+#number-display {
+    margin: auto;
+    width: 100%
+    ;
+}
+
+body {
+    max-width: 400px;
+    margin: 100px auto 0 auto;;
+}
